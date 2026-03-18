@@ -30,6 +30,8 @@ To write a Python program to convert a given Infix expression to Postfix express
 ### PROGRAM
 
 ```
+#Reg.no 212222060280
+#Name Trisha S
 Operators = set(['*','^','(',')'])  
 Priority = {'*':1,'^':2} 
  
